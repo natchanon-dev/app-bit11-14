@@ -6,7 +6,7 @@ export default function App(){
   return(
     <View style={homeStyle.container} >
 
-      <Text style={homeStyle.title}>Natchanon</Text>
+      <Text style={homeStyle.title}>Natchanon nonthong🫶🏻</Text>
     
     <Image 
       source={require("@/assets/nut.jpeg")}
